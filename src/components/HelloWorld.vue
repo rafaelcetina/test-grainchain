@@ -18,7 +18,7 @@
                       v-bind="attrs"
                       v-on="on"
                   >
-                    1. Instrucciones
+                    1. PASOS
                   </v-btn>
                 </template>
                 <v-card>
